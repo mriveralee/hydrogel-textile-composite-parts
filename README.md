@@ -8,7 +8,7 @@ The [publication is also freely available here](http://mikeriv.com/assets/resear
 ![mount_design]
 
 ## Citation
-Michael L. Rivera, Jack Forman, Scott E. Hudson and Lining Yao. 2020. Hydrogel-Textile Composites: Actuators for Shape-Changing Interfaces. In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems Proceedings (CHI EA '20) Extended Abstracts, April 25–30, 2020, Honolulu, HI, USA. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3334480.3382788
+```Michael L. Rivera, Jack Forman, Scott E. Hudson and Lining Yao. 2020. Hydrogel-Textile Composites: Actuators for Shape-Changing Interfaces. In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems Proceedings (CHI EA '20) Extended Abstracts, April 25–30, 2020, Honolulu, HI, USA. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3334480.3382788```
 
 # License
 ```MIT License
